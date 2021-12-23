@@ -10,3 +10,4 @@ int main()
     cout << test.kesirlerEkle() << endl;
     return 0;
 }
+أي سوال هدا؟
